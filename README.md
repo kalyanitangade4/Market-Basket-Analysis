@@ -58,7 +58,5 @@ Don't over-promote staples together — bundling milk with vegetables adds littl
 ## ✅ Conclusion
 This analysis shows that co-purchase behavior isn't random — it concentrates around specific mid-frequency product clusters (sausage/yogurt/milk, fruit/flour) rather than around best-sellers. These are concrete, addressable levers for shelf placement and bundling, which is what makes the findings useful for a merchandising strategy rather than just a descriptive report.
 
-👨‍💻 Author
-Kalyani Tangade | Aspiring Data Analyst
-Mumbai, India
-kalyanitangade4@gmail.com
+## 👨‍💻 Author
+Kalyani Tangade B.Tech IT Graduate | Aspiring Data Analyst Mumbai, India kalyanitangade4@gmail.com

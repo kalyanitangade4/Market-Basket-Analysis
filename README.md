@@ -6,7 +6,13 @@ Retailers want to answer a concrete question: if a customer buys product X, what
 
 ## 🗂️ Dataset
 The analysis uses the widely-used Groceries dataset (Kaggle), containing item-level purchase records with fields such as:
-CategoryExample FieldsCustomerMember_numberTransactionDateProductitemDescriptionDerivedTransactionID (reconstructed from Member_number + Date)
+| Category | Example | 
+| --- | --- |
+| Fields | Customer |
+| Member_number | Transaction Date |
+| Product item | Description |
+| Derived | TransactionID (reconstructed from Member_number + Date)|
+
 ~38,765 purchase records, 3,898 unique customers, 167 unique products, spanning Jan 2014 – Dec 2015.
 
 ## 🎯 Objectives

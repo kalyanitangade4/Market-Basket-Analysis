@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (uncomment if you don't want to commit the dataset)
+# data/raw/
+# *.csv
+
+# Generated rule exports
+*.pkl
+
+# Secrets / config
+.env
+api_keys.py
+config.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

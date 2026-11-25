@@ -55,6 +55,15 @@ Lift heatmap among top 15 products
 - **Visualization:** Matplotlib, NetworkX
 - **Environment:** Jupyter Notebook
 
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook Market-Basket-Analysis.ipynb
+```
+
+The dataset (`Groceries_dataset.csv`) is included, and the Power BI dashboard is in `Market-Basket-Analysis.pbix`.
+
 ## 💡 Business Recommendations
 - **Cross-merchandising:** place sausage near the dairy aisle (milk/yogurt), and tropical fruit near baking supplies.
 - **Bundle promotions:** a "breakfast bundle" (milk + yogurt + sausage) or "baking bundle" (flour + tropical fruit).
